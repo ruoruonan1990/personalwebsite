@@ -1,0 +1,40 @@
+baseURL = 'http://localhost:1313/'
+languageCode = 'en-us'
+title = 'Welcome to My Website!'
+theme = 'barks'
+
+[menu]
+  [[menu.main]]
+    name = 'Research Interests'
+    url = '/about/'
+    weight = 1
+  [[menu.main]]
+    name = 'Publications'
+    url = '/publication/'
+    weight = 2
+  [[menu.main]]
+    name = 'Blog'
+    url = '/posts/'
+    weight = 3
+
+[params.social]
+    [params.social.email]
+        name = "E-Mail"
+        class = "fas fa-envelope"
+        url = "mailto:rli10@mdanderson.org"
+        weight = 1
+    [params.social.github]
+        name = "GitHub"
+        class = "fab fa-github"
+        url = "https://github.com/ruoruonan1990"
+        weight = 2
+    [params.social.linkedin]
+        name = "LinkedIn"
+        class = "fab fa-linkedin"
+        url = "https://www.linkedin.com/in/ruonan-li-nina"
+        weight = 4
+    [params.social.orcid]
+        name = "ORCID"
+        class = "ai ai-orcid"
+        url = "https://orcid.org/0009-0009-5799-3609"
+        weight = 5
