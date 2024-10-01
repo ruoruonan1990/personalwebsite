@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome to my website! on Welcome to My Website!</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Welcome to my website! on Welcome to My Website!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Oct 2024 01:46:39 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/publication/</link>
+      <pubDate>Tue, 01 Oct 2024 01:46:39 -0500</pubDate>
+      <guid>http://localhost:1313/publication/</guid>
+      <description>&lt;h2 id=&#34;journal-articles&#34;&gt;Journal Articles&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Li, R.&lt;/strong&gt;, Sparveris, N., Atac, H. et al. (2024). Pion electroproduction measurements in the nucleon resonance region. Eur. Phys. J. A 60, 168. &lt;a href=&#34;https://doi.org/10.1140/epja/s10050-024-01391-7&#34;&gt;https://doi.org/10.1140/epja/s10050-024-01391-7&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Duran, B., Meziani, ZE., Joosten, S. et al. (2023). Determining the gluonic gravitational form factors of the proton. &lt;em&gt;Nature&lt;/em&gt;, 615, 813–816. &lt;a href=&#34;https://doi.org/10.1038/s41586-023-05730-4&#34;&gt;https://doi.org/10.1038/s41586-023-05730-4&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Li, R.&lt;/strong&gt;, Sparveris, N., Atac, H. et al. (2022). Measured proton electromagnetic structure deviates from theoretical predictions. &lt;em&gt;Nature&lt;/em&gt;, 611, 265–270. &lt;a href=&#34;https://doi.org/10.1038/s41586-022-05248-1&#34;&gt;https://doi.org/10.1038/s41586-022-05248-1&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;preprints&#34;&gt;Preprints&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Jiang, Y., Montierth, M. D., Yu, K., et al. (2024). Pan-cancer subclonal mutation analysis of 7,827 tumors predicts clinical outcome. bioRxiv. &lt;a href=&#34;https://doi.org/10.1101/2024.07.03.601939&#34;&gt;https://doi.org/10.1101/2024.07.03.601939&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Tue, 01 Oct 2024 01:46:20 -0500</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;My research focuses on two key areas within bioinformatics and cancer genomics, where I am actively learning and collaborating with lab members. First, I am involved in developing and applying computational methods, including tumor deconvolution and single-cell/spatial data analysis, to better understand the intra- and inter-tumor heterogeneity (ITH), tumor evolution, and the interaction of components within the tumor microenvironment (TME).  Second, I am contributing to efforts in validating semi-parametric survival models for cancer risk prediction, particularly in the context of Li-Fraumeni Syndrome (LFS). Together, these areas aim to improve personalized cancer treatment and enhance clinical management.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>News</title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Tue, 01 Oct 2024 01:32:18 -0500</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description>&lt;h2 id=&#34;this-is-a-test&#34;&gt;This is a test&lt;/h2&gt;&#xA;&lt;h2 id=&#34;this-is-another-test&#34;&gt;This is another test&lt;/h2&gt;</description>
+    </item>
+    <item>
+      <title>Understanding Li-Fraumeni Syndrome (LFS)</title>
+      <link>http://localhost:1313/posts/lfs/</link>
+      <pubDate>Mon, 01 Jul 2024 14:58:23 -0500</pubDate>
+      <guid>http://localhost:1313/posts/lfs/</guid>
+      <description>&lt;p&gt;Li-Fraumeni Syndrome (LFS) is a rare, inherited disorder that significantly increases the risk of developing various types of cancer, often at a young age. It’s caused by mutations in the TP53 gene, a crucial tumor suppressor, making affected individuals more susceptible to cancers like breast cancer, sarcomas, brain tumors, and more.&lt;/p&gt;&#xA;&lt;p&gt;Working on LFS has been an eye-opening experience. The complexity of the genetic mutations and their effects on cancer risk continue to challenge researchers, but it also provides a unique opportunity to explore innovative approaches to cancer risk prediction. Wang Lab is particularly focused on using real clinical data to improve risk prediction models for individuals with LFS, specifically in predicting TP53 mutations and the onset of multiple primary cancers (LFSPRO). There is hope that early detection and personalized interventions can improve outcomes for those affected. I look forward to sharing more updates as we continue to delve deeper into this important area.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Joining MD Anderson Cancer Center</title>
+      <link>http://localhost:1313/posts/first/</link>
+      <pubDate>Mon, 31 Jul 2023 14:43:05 -0500</pubDate>
+      <guid>http://localhost:1313/posts/first/</guid>
+      <description>&lt;p&gt;Today, I embarked on an exciting new journey at MD Anderson Cancer Center. I’m eager to collaborate with the incredible researchers and clinicians here and contribute to groundbreaking cancer research. It’s a dynamic environment with so much to explore, and I’m excited to be part of this community, working towards advancing cancer care and making a difference.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;mdanderson.jpg&#34; alt=&#34;MD Anderson Cancer Center&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
