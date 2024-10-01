@@ -1,4 +1,4 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://ruonan-li-nina.netlify.app'
 languageCode = 'en-us'
 title = 'Welcome to My Website!'
 theme = 'barks'
